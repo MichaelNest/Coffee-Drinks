@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coffee Types</string>
+    <string name="logo">Logo</string>
+    <string-array name="top_menu">
+        <item>Coffee with Alcohol</item>
+        <item>Coffee with Milk</item>
+        <item>Simple Coffee</item>
+    </string-array>
+</resources>
